@@ -200,7 +200,7 @@ body {
 }
 
 ::selection {
-    background: #D6EDFF;
+    background: red;
 }
 
 h1, h2, h3,
